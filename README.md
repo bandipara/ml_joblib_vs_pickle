@@ -13,5 +13,5 @@ Steps followed:
 7. Consumed the model using joblib and tested output.
 
 
-![](Images/image1.png)
+![](Images/image1.PNG)
 
