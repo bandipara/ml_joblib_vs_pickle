@@ -12,3 +12,6 @@ Steps followed:
 6. Exported model using joblib.
 7. Consumed the model using joblib and tested output.
 
+
+![1-image](Images/1-image.png)
+
